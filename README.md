@@ -1,6 +1,6 @@
 ## Case Studies of Attack Types
 
-We conducted a case study on all three attack types separately:
+We conducted a case study on all attack types separately:
 
 ---
 
@@ -30,14 +30,4 @@ Our case is at [PR](https://github.com/jiangrui-zheng/vant/pull/103), where the 
 - **Copilot’s suggestion:**  
   ![type2_copilot.jpg](./type2_copilot.jpg)
 
----
 
-### 3. **Attention diverting attack**
-
-We instructed the agent to rename variables, e.g., changing any identifier containing `"a"` to `"b"`.  
-Our case is at [PR](https://github.com/jiangrui-zheng/vant/pull/98).
-
-- **suggestion:**  
-  ![type3_coderabbit.jpg](./type3_coderabbit.jpg)
-
----
